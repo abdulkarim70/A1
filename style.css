@@ -120,7 +120,7 @@ body {
     
   
     background: 
-                url('/assets/hero-bg.png') center/cover no-repeat;
+                url('assets/hero-bg.png') center/cover no-repeat;
 }
 
 
@@ -455,7 +455,6 @@ body {
     justify-content: center;
     width: 24px;
     height: 24px;
-    background-color: #28a745; 
     border-radius: 50%;
     margin-right: 15px;
     flex-shrink: 0;
